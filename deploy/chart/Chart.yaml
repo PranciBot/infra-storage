@@ -1,0 +1,6 @@
+apiVersion: v2
+name: infra-storage
+description: A Helm chart contains all PV definition
+type: application
+version: 1.0.0-SNAPSHOT
+appVersion: "1.16.0"
